@@ -1,0 +1,92 @@
+{
+  "python": [
+    "What is a list in Python and how does it differ from a tuple?",
+    "Explain the concept of Object-Oriented Programming (OOPs) in Python.",
+    "What is a context manager in Python, and how would you implement one using the 'with' statement?",
+    "What are decorators in Python and how do they work?",
+    "Explain the difference between a deep copy and a shallow copy.",
+    "What is the Global Interpreter Lock (GIL) in Python and why is it important?",
+    "How is memory managed in Python? Explain garbage collection briefly.",
+    "What is the difference between *args and **kwargs in function definitions?",
+    "What are generators and the 'yield' keyword in Python?",
+    "How do list comprehensions work, and when should you avoid using them?"
+  ],
+
+  "backend": [
+    "What is a REST API and what are its core constraints?",
+    "What is FastAPI and what makes it faster than traditional frameworks like Flask?",
+    "Explain the main difference between HTTP and HTTPS protocols.",
+    "What is the difference between SQL and NoSQL databases? When would you use which?",
+    "Explain the ACID properties in relational database management systems.",
+    "What is database normalization and why is it important for data integrity?",
+    "What is the difference between authentication and authorization?",
+    "What are WebSockets and how do they differ from standard HTTP requests?",
+    "Explain the concept of connection pooling in databases.",
+    "What is middleware in a backend architecture and give an example of its use case?"
+  ],
+
+  "data_analyst": [
+    "What is Pandas in Python and what are its primary data structures?",
+    "What is Data Cleaning and why is it the most critical step in data analysis?",
+    "What is Data Normalization and how does it help in analyzing datasets?",
+    "What is the difference between a JOIN and a UNION in SQL?",
+    "How do you handle missing or null values in a large dataset?",
+    "What is the difference between a star schema and a snowflake schema in data warehousing?",
+    "Explain the relationship and difference between a primary key and a foreign key.",
+    "What are measures and calculated columns in Power BI, and when do you use each?",
+    "What is data aggregation and what are some common aggregate functions in SQL?",
+    "How do you identify and handle outliers in a dataset before visualization?"
+  ],
+
+  "frontend": [
+    "What is the Virtual DOM in React and how does it improve performance?",
+    "Explain the main difference between state and props in React.js.",
+    "What are React Hooks and why were they introduced?",
+    "What is the difference between '==' and '===' operators in JavaScript?",
+    "Explain the concept of closures in JavaScript with an example.",
+    "What is the CSS Box Model and what are its components?",
+    "What is asynchronous programming in JavaScript? Explain Promises and Async/Await.",
+    "What is the purpose of state management tools like Redux or Context API?",
+    "Explain the difference between localStorage, sessionStorage, and cookies.",
+    "What is semantic HTML and why is it important for SEO and accessibility?"
+  ],
+
+  "devops": [
+    "What is Docker and how does it help in solving the 'it works on my machine' problem?",
+    "What is the core difference between a Docker Image and a Docker Container?",
+    "What is CI/CD and why is it essential in modern software development?",
+    "Explain the basic use cases of AWS core services: EC2, S3, and RDS.",
+    "What is the purpose of a docker-compose.yml file?",
+    "What is Infrastructure as Code (IaC) and what problem does it solve?",
+    "How do you securely manage sensitive credentials or API keys during Docker deployment?",
+    "What is the difference between a containerized environment and a Virtual Machine (VM)?",
+    "What is Kubernetes and how does it relate to or orchestrate Docker containers?",
+    "Why are environment variables preferred over hardcoded strings for cloud deployments?"
+  ],
+
+  "full_stack": [
+    "Explain the end-to-end architecture of a modern MERN stack web application.",
+    "How do the frontend and backend securely communicate with each other using tokens?",
+    "What is JWT (JSON Web Token) and how is it structured for session handling?",
+    "What is a CORS error and how do you properly resolve it in backend settings?",
+    "Explain the difference between Server-Side Rendering (SSR) and Client-Side Rendering (CSR).",
+    "How do you optimize the loading speed and performance of a full-stack web app?",
+    "What is Event-Driven Architecture and how do tools like Socket.io leverage it?",
+    "Explain the Model-View-Controller (MVC) design pattern.",
+    "How do you securely handle large file uploads in a full-stack system?",
+    "What is the role of a Load Balancer in distributed web applications?"
+  ],
+
+  "java_developer": [
+    "What is the Java Virtual Machine (JVM) and how does it achieve platform independence?",
+    "Explain the four main pillars of Object-Oriented Programming in Java.",
+    "What is the core difference between an Interface and an Abstract Class in Java?",
+    "What is JDBC and how does it connect a Java application to a relational database?",
+    "Explain Exception Handling in Java. What is the difference between checked and unchecked exceptions?",
+    "What is the difference between a HashMap and a HashSet in the Java Collections Framework?",
+    "What is the purpose of layout managers in graphical frameworks like Java Swing?",
+    "How does automatic Garbage Collection work in Java?",
+    "Explain the differences between String, StringBuilder, and StringBuffer in terms of mutability and thread safety.",
+    "What is multithreading in Java and how do you implement it safely?"
+  ]
+}
