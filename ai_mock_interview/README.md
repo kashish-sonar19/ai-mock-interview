@@ -19,4 +19,12 @@ An intelligent, AI-driven application designed to simulate real-world technical 
 ##  Local Setup
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/kashish-sonar19/ai-mock-interview.git
+   git clone https://github.com/kashish-sonar19/ai-mock-interview.
+   
+2. Add your `.env` file with `GEMINI_API_KEY`.
+    GEMINI_API_KEY = your_api_key_here
+
+3. Run `docker compose up --build -d`.
+    docker compose up --build -d
+
+4. Access the app locally at http://13.234.59.65:8501.
